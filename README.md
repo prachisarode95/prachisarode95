@@ -1,7 +1,8 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/prachisarode95/prachisarode95/assets/60979131/a9e94a2c-5440-48eb-a219-81f8ff350361)
 
 <h1 align="center">Hi 👋, I'm Prachi Sarode</h1>
-<h3 align="center">A Passionate GIS Analyst (Spatial Data Science Enthusiast)</h3>
+
+<h3 align="center"><i>"Obsessed with Maps, Driven by Data: A True Spatial Data Science Enthusiast!"<i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
 
@@ -13,6 +14,9 @@
 - Geodjango Application.
 - Location Analysis.
 - 'Reachability' Web App
+
+<h3 align="left">About me:</h3>
+I am a M.Tech. graduate from Madras University, Chennai. A passionate GIS Professional having interest in GIS, Remote Sensing, GPS technologies. More emphasizing on Spatial Data Science & Big Data Applications using Software like ArcGIS, QGIS for data operations, Programming languages like Python, SQL for analysis, Cloud Computing tools like Earth Engine, Google Colab/Jupyter Notebbok for data computations.
 
 
 - 🔭 I’m currently working on **Data Science Projects**
