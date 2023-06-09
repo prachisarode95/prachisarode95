@@ -6,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
 
 
-- 🔭 I’m currently working on **Machine Learning Application Development & Deployment**
+- 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Inferential Statistics, Data Visualization with Power BI/Tableau, Computer Vision libraries & frameworks (for Satellite Image Processing)**
+- 🌱 I’m currently learning **Advanced Python, Machine Learning/Deep Learning/Computer Vision (Beginner), Inferential Statistics, Data Visualization With Open-Source Tools/Power BI/Tableau**
 
-- 🤝 I’m looking for help with **Current pending projects**
+- 🤝 I’m looking for help with **Right Career Guidence For My Data Science Journey**
 
 - 👨‍💻 My old projects are available at [https://prachisarode95.github.io/portfolio/](https://prachisarode95.github.io/portfolio/)
 
 - 📝 I have blogs on [https://prachisarode.medium.com/](https://prachisarode.medium.com/)
 
-- 💬 Ask me about **Geospatial technologies**
+- 💬 Ask me about **Geospatial Technologies**
 
 - 📫 Email me **prachisarode95@gmail.com**
 
