@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Prachi Sarode</h1>
 
-<h3 align="center"><i>"Obsessed with Maps, Driven by Data: A True Spatial Data Science Enthusiast!"<i></h3>
+<h3 align="center">"Obsessed with Maps, Driven by Data: A True Spatial Data Science Enthusiast!"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /></p>
 
 ## Employment
 - [GIS Analyst at Bhuh Pramaan Pvt. Ltd.](https://www.bhuhpramaan.com/)
@@ -15,7 +15,8 @@
 - Location Analysis.
 - 'Reachability' Web App
 
-<h3 align="left">About me:</h3>
+## About Me
+
 I am a M.Tech. graduate from Madras University, Chennai. A passionate GIS Professional having interest in GIS, Remote Sensing, GPS technologies. More emphasizing on Spatial Data Science & Big Data Applications using Software like ArcGIS, QGIS for data operations, Programming languages like Python, SQL for analysis, Cloud Computing tools like Earth Engine, Google Colab/Jupyter Notebbok for data computations.
 
 
