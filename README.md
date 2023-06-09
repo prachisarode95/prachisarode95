@@ -5,6 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
 
+## Employment
+- [GIS Analyst at Bhuh Pramaan Pvt. Ltd.](https://www.bhuhpramaan.com/)
+- [GIS Developer at GISKernel Technologies LLP.](https://www.giskernel.com/)
+
+## Projects
+- Geodjango Application.
+- Location Analysis.
+- 'Reachability' Web App
+
 
 - 🔭 I’m currently working on **Data Science Projects**
 
