@@ -22,7 +22,7 @@ I am a M.Tech. graduate from Madras University, Chennai. A passionate GIS Profes
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Advanced Python, Machine Learning/Deep Learning/Computer Vision (Beginner), Inferential Statistics, Data Visualization With Open-Source Tools/Power BI/Tableau**
+- 🌱 I’m currently learning **Advanced Python, Cloud Computing, Machine Learning/Deep Learning/Computer Vision (Beginner level), Inferential Statistics, Data Visualization With Mapbox, Carto, Kepler.gl & many more open-source tools/frameworks.**
 
 - 🤝 I’m looking for help with **Right Career Guidence For My Data Science Journey**
 
