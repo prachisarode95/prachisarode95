@@ -10,11 +10,6 @@
 - [GIS Analyst at Bhuh Pramaan Pvt. Ltd. (2021)](https://www.bhuhpramaan.com/)
 - [GIS Developer at GISKernel Technologies LLP. (2023)](https://www.giskernel.com/)
 
-## Projects
-- Geodjango Application.
-- Location Analysis.
-- 'Reachability' Web App
-
 ## About Me
 
 I am a M.Tech. graduate from Madras University, Chennai. A passionate GIS Professional having interest in GIS, Remote Sensing, GPS technologies. More emphasizing on Spatial Data Science & Big Data Applications using Software like ArcGIS, QGIS for data operations, Programming languages like Python, SQL for analysis, Cloud Computing tools like Earth Engine, Google Colab/Jupyter Notebbok for data computations.
