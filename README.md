@@ -12,12 +12,12 @@
 
 ## About Me
 
-I am a M.Tech. graduate from Madras University, Chennai. A passionate GIS Professional having interest in GIS, Remote Sensing, GPS technologies. More emphasizing on Spatial Data Science & Big Data Applications using Software like ArcGIS, QGIS for data operations, Programming languages like Python, SQL for analysis, Cloud Computing tools like Earth Engine, Google Colab/Jupyter Notebbok for data computations.
+I am an M.Tech. graduate from Madras University, Chennai. I am a passionate GIS Professional with an interest in GIS, Remote Sensing, and GPS technologies. More emphasis on Spatial Data Science & Big Data Applications using Software like ArcGIS, and QGIS for data operations, Programming languages like Python, and SQL for analysis, and Cloud Computing tools like Earth Engine, and Google Colab/Jupyter Notebook for data computations.
 
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Advanced Python, Cloud Computing, Machine Learning/Deep Learning/Computer Vision (Beginner level), Inferential Statistics, Data Visualization With Mapbox, Carto, Kepler.gl & many more open-source tools/frameworks.**
+- 🌱 I’m currently learning **Advanced Python, Web Scraping, Cloud Computing, Machine Learning/Deep Learning/Computer Vision (Beginner level), Inferential Statistics, and Data Visualization With Mapbox, Carto, Kepler.GL & many more open-source tools/frameworks.**
 
 - 🤝 I’m looking for help with **Right Career Guidence For My Data Science Journey**
 
