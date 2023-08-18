@@ -12,20 +12,18 @@
 
 ## About Me
 
-I am an M.Tech. graduate from Madras University, Chennai. I am a passionate GIS Professional with an interest in GIS, Remote Sensing, and GPS technologies. More emphasis on Spatial Data Science & Big Data Applications using Software like ArcGIS, and QGIS for data operations, Programming languages like Python, and SQL for analysis, and Cloud Computing tools like Earth Engine, and Google Colab/Jupyter Notebook for data computations.
+I am an M.Tech. graduate from Madras University, Chennai. I am a passionate GIS Professional with an interest in GIS, Remote Sensing, and GPS technologies. I have more emphasis on Spatial Data Science & Big Data Applications using various GIS Software for data processing, Programming languages like Python, and SQL for data analysis, and Cloud Computing tools for data computations and operations.
 
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently **Exploring New GIS Technologies**
 
-- 🌱 I’m currently learning **Advanced Python, Web Scraping, Cloud Computing, Machine Learning/Deep Learning/Computer Vision (Beginner level), Inferential Statistics, and Data Visualization With Mapbox, Carto, Kepler.GL & many more open-source tools/frameworks.**
+- 🌱 I’m currently learning **FME Software, SNAP Software, ArcGIS Extensions, Google Earth Engine, Machine Learning/Deep Learning/Computer Vision (Beginner level), Advanced Data Visualization With Power BI, Mapbox, Carto, and Kepler.GL**
 
 - 🤝 I’m looking for help with **Right Career Guidence For My Data Science Journey**
 
-- 👨‍💻 My old projects are available at [https://prachisarode95.github.io/portfolio/](https://prachisarode95.github.io/portfolio/)
+- 👨‍💻 My old projects are available at [https://prachisarode95.github.io/portfolio/](https://prachisarode95.github.io/portfolio/) - #Under developement
 
 - 📝 I have blogs on [https://prachisarode.medium.com/](https://prachisarode.medium.com/)
-
-- 💬 Ask me about **Geospatial Technologies**
 
 - 📫 Email me **prachisarode95@gmail.com**
 
@@ -39,7 +37,7 @@ I am an M.Tech. graduate from Madras University, Chennai. I am a passionate GIS 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachisarode95&show_icons=true&locale=en&layout=compact" alt="prachisarode95" /></p>
 
