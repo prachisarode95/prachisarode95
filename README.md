@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prachi Sarode</h1>
 
-<h3 align="center">"Obsessed with Maps, Driven by Data: A True Spatial Data Science Enthusiast!"</h3>
+<h3 align="center">"Obsessed with Maps, Driven by Data: A True Spatial Science Enthusiast!"</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /></p>
 
