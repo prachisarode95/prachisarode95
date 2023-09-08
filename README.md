@@ -17,7 +17,7 @@ I am an M.Tech. graduate from Madras University, Chennai. I am a passionate GIS 
 
 - 🔭 I’m currently **Exploring New GIS Technologies**
 
-- 🌱 I’m currently learning **FME Software, SNAP Software, ArcGIS Extensions, Google Earth Engine, Machine Learning/Deep Learning/Computer Vision (Beginner level), Advanced Data Visualization With Power BI, Mapbox, Carto, and Kepler.GL**
+- 🌱 I’m currently learning **FME Software, ArcGIS Extensions, Machine Learning/Deep Learning/Computer Vision (Beginner level), Data Visualization With Power BI, Mapbox, Carto, and Kepler.GL**
 
 - 🤝 I’m looking for help with **Right Career Guidence For My Data Science Journey**
 
