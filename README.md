@@ -7,7 +7,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /></p>
 
 ## Employment
-- [GIS Analyst at Bhuh Pramaan Pvt. Ltd. (2021)](https://www.bhuhpramaan.com/)
+- [GIS Analyst at Bhuh Pramaan Pvt. Ltd. (Jun 2021 - Apr 2022)](https://www.bhuhpramaan.com/)
+- [GIS Developer at GISKernel Technologies Pvt. Ltd. (Jan 2023 - Mar 2023)](https://www.giskernel.com/)
 
 ## About Me
 
