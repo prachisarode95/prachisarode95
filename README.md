@@ -12,12 +12,12 @@
 
 ## About Me
 
-I am an M.Tech. graduate from Madras University, Chennai. I am a passionate GIS Professional with an interest in GIS, Remote Sensing, and GPS technologies. I have more emphasis on Spatial Data Science & Big Data Applications using various GIS Software for data processing, Programming languages like Python, and SQL for data analysis, and Cloud Computing tools for data computations and operations.
+I hold a Master's degree in Technology, with a specialization in Geoinformatics from Madras University. As a GIS professional, I am passionate about GIS, Remote Sensing, and GPS technologies. My area of expertise lies in the application of Spatial Data Science, where I use various GIS software and tools for data processing, programming languages like Python and SQL for data analysis as well as data visualization, JavaScript for Web mapping, and Cloud Computing tools for spatial data integrations.
 
 
-- 🔭 I’m currently **Exploring New GIS Technologies**
+- 🔭 I’m currently **Exploring New GIS Tools**
 
-- 🌱 I’m currently learning **FME Software, ArcGIS Pro, Advanced Data Visualization With Mapbox, Carto, and Kepler.GL**
+- 🌱 I’m currently learning **FME Software, ArcGIS Pro & ArcGIS Online, OSM tools, Data Visualization With Mapbox, Carto, and Kepler.GL**
 
 - 🤝 I’m looking for help with **Right Career Guidance For My Data Science Journey**
 
@@ -34,7 +34,7 @@ I am an M.Tech. graduate from Madras University, Chennai. I am a passionate GIS 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
