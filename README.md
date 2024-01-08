@@ -8,7 +8,6 @@
 
 ## Employment
 - [GIS Analyst at Bhuh Pramaan Pvt. Ltd. (Jun 2021 - Apr 2022)](https://www.bhuhpramaan.com/)
-- [GIS Developer at GISKernel Technologies Pvt. Ltd. (Jan 2023 - Mar 2023)](https://www.giskernel.com/)
 
 ## About Me
 
