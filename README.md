@@ -14,10 +14,17 @@
 
 I hold a Master's degree in Technology, with a specialization in Geoinformatics from Madras University. As a GIS professional, I am passionate about GIS, Remote Sensing, and GPS technologies. My area of expertise lies in the application of Spatial Data Science, where I use various GIS software and tools for data processing, programming languages like Python and SQL for data analysis as well as data visualization, JavaScript for Web mapping, and Cloud Computing tools for spatial data integrations.
 
+## Certifications
+- [Enterprise GIS Made Easy. (2023)](https://www.udemy.com/course/enterprise-gis-made-easy/)
+- [Spatial Data Science: The New Frontier in Analytics. (2023)](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/)
+- [Imagery in Action. (2022)](https://www.esri.com/training/catalog/6074ab588e68a831e4d8974b/imagery-in-action/)
+- [Machine learning to Deep Learning: A journey for remote sensing data classification. (2021)](https://eclass.iirs.gov.in/offline-session)
+- [Basics of Geocomputation & GeoWeb Services. (2020)](https://eclass.iirs.gov.in/offline-session)
+
 
 - 🔭 I’m currently **Exploring New GIS Tools**
 
-- 🌱 I’m currently learning **FME Software, ArcGIS Pro & ArcGIS Online, OSM tools, Data Visualization With Mapbox, Carto, and Kepler.GL**
+- 🌱 I’m currently learning **ArcGIS Pro & ArcGIS Online, JOSM tool, Spatial Data Science With Python & SQL**
 
 - 🤝 I’m looking for help with **Right Career Guidance For My Data Science Journey**
 
