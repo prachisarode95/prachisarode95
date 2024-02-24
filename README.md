@@ -29,7 +29,6 @@ I hold a Master's degree in Technology, with a specialization in Geoinformatics 
 - [Enterprise GIS Made Easy. (2023)](https://www.udemy.com/course/enterprise-gis-made-easy/)
 - [Spatial Data Science: The New Frontier in Analytics. (2023)](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/)
 - [Imagery in Action. (2022)](https://www.esri.com/training/catalog/6074ab588e68a831e4d8974b/imagery-in-action/)
-- [Machine learning to Deep Learning: A journey for remote sensing data classification. (2021)](https://eclass.iirs.gov.in/offline-session)
 - [Basics of Geocomputation & GeoWeb Services. (2020)](https://eclass.iirs.gov.in/offline-session)
 
 <h3 align="left">Connect with me:</h3>
