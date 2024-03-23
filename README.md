@@ -15,7 +15,7 @@ I hold a Master's degree in Technology, with a specialization in Geoinformatics 
 
 - 🔭 I’m currently **Exploring New GIS Tools**
 
-- 🌱 I’m currently learning **ArcGIS Pro & ArcGIS Online, JOSM tool, Spatial Data Science With Python & SQL**
+- 🌱 I’m currently learning **ArcGIS Pro & ArcGIS Online, JOSM tool, FME Software, Spatial Data Science With Python & SQL**
 
 - 🤝 I’m looking for help with **Right Career Guidance For My Data Science Journey**
 
@@ -27,8 +27,8 @@ I hold a Master's degree in Technology, with a specialization in Geoinformatics 
 
 ## Certifications
 - [Enterprise GIS Made Easy. (2023)](https://www.udemy.com/course/enterprise-gis-made-easy/)
-- [Spatial Data Science: The New Frontier in Analytics. (2023)](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/)
-- [Imagery in Action. (2022)](https://www.esri.com/training/catalog/6074ab588e68a831e4d8974b/imagery-in-action/)
+- [Python: Master Programming and Development with 15 Projects. (2023)](https://www.udemy.com/certificate/UC-b00823e1-6f6a-4343-915e-d4765b90176d/)
+- [Imagery in Action. (2023)](https://www.esri.com/training/catalog/6074ab588e68a831e4d8974b/imagery-in-action/)
 - [Basics of Geocomputation & GeoWeb Services. (2020)](https://eclass.iirs.gov.in/offline-session)
 
 <h3 align="left">Connect with me:</h3>
