@@ -11,24 +11,25 @@
 
 ## About Me
 
-I hold a Master's degree in Technology, with a specialization in Geoinformatics from Madras University. As a GIS professional, I am passionate about GIS, Remote Sensing, and GPS technologies. My area of expertise lies in the application of Spatial Data Science, where I use various GIS software and tools for data processing, programming languages like Python and SQL for data analysis as well as data visualization, JavaScript for Web mapping, and Cloud Computing tools for spatial data integrations.
+I have a Master's degree in Technology with a specialization in Geoinformatics from Madras University. As a GIS Analyst, I am passionate about GIS and Remote Sensing. My expertise lies in the application of Spatial Data Science, where I use various GIS software and tools for data processing. I also use programming languages like Python and SQL for data integration, analysis, and visualization, JavaScript for Web mapping, and Cloud Computing tools for data automation tasks.
 
-- 🔭 I’m currently **Exploring New GIS Tools**
+- 🔭 I’m currently **Working on Data Science projects**
 
-- 🌱 I’m currently learning **ArcGIS Pro & ArcGIS Online, JOSM tool, FME Software, Spatial Data Science With Python & SQL**
+- 🌱 I’m currently learning **ArcGIS Pro, JOSM tool, FME Software, Spatial Data Science With Python & SQL**
 
 - 🤝 I’m looking for help with **Right Career Guidance For My Data Science Journey**
-
-- 👨‍💻 My old projects are available at [https://prachisarode95.github.io/portfolio/](https://prachisarode95.github.io/portfolio/) - #Under development
 
 - 📝 I have blogs on [https://prachisarode.medium.com/](https://prachisarode.medium.com/)
 
 - 📫 Email me **prachisarode95@gmail.com**
 
 ## Certifications
+- [FME Form Basic. (2024)](https://verify.skilljar.com/c/5cvpk3nsgupu)
+- [Going Places with Spatial Analysis. (2024)](https://www.esri.com/training/TrainingRecord/Certificate/prachisarode/64d73e7294a0e87b34be7d5d/-330)
+- [Imagery in Action. (2023)](https://www.esri.com/training/TrainingRecord/Certificate/prachisarode/64d77d6894a0e87b34c114eb/-330)
 - [Enterprise GIS Made Easy. (2023)](https://www.udemy.com/course/enterprise-gis-made-easy/)
-- [Python: Master Programming and Development with 15 Projects. (2023)](https://www.udemy.com/certificate/UC-b00823e1-6f6a-4343-915e-d4765b90176d/)
-- [Imagery in Action. (2023)](https://www.esri.com/training/catalog/6074ab588e68a831e4d8974b/imagery-in-action/)
+- [Leaflet for Beginners. (2020)](https://www.udemy.com/certificate/UC-da4615f0-4f9b-4492-a51f-8fccb1bcd7da/)
+- [Web GIS development. (2020)](https://www.udemy.com/certificate/UC-4daf6dfd-9162-48b7-bed1-c666a6db4978/)
 - [Basics of Geocomputation & GeoWeb Services. (2020)](https://eclass.iirs.gov.in/offline-session)
 
 <h3 align="left">Connect with me:</h3>
