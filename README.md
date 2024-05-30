@@ -28,6 +28,7 @@ I have a Master's degree in Technology with a specialization in Geoinformatics f
 - [Going Places with Spatial Analysis. (2024)](https://www.esri.com/training/TrainingRecord/Certificate/prachisarode/64d73e7294a0e87b34be7d5d/-330)
 - [Imagery in Action. (2023)](https://www.esri.com/training/TrainingRecord/Certificate/prachisarode/64d77d6894a0e87b34c114eb/-330)
 - [Enterprise GIS Made Easy. (2023)](https://www.udemy.com/course/enterprise-gis-made-easy/)
+- [Geospatial Analysis. (2021)](https://www.kaggle.com/learn/certification/prachisarode/geospatial-analysis)
 - [Web GIS development. (2020)](https://www.udemy.com/certificate/UC-4daf6dfd-9162-48b7-bed1-c666a6db4978/)
 - [Basics of Geocomputation & GeoWeb Services. (2020)](https://eclass.iirs.gov.in/offline-session)
 
