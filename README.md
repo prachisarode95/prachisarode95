@@ -20,11 +20,11 @@
 - [Basics of Geocomputation & GeoWeb Services. (2020)](https://eclass.iirs.gov.in/offline-session)
 
 ## About Me
-I have a Master's degree in Technology with a specialization in Geoinformatics from Madras University. As a GIS Analyst, I am passionate about GIS and Remote Sensing. My expertise lies in the application of Spatial Data Science, where I use various GIS software and tools for data processing. I also use programming languages like Python and SQL for data integration, analysis, and visualization, JavaScript for Web mapping, and Cloud Computing tools for data automation tasks.
+I have a Master's in Technology specializing in Geoinformatics from Madras University. My work involves handling spatial data, using GIS software, cloud-based tools, and programming languages like Python, SQL, and JavaScript for data integration, analysis, and visualization.
 
-- 🔭 I’m currently working on **Spatial Data Science projects**
+<!-- - 🔭 I’m currently working on **Spatial Data Science projects** -->
 
-- 🌱 I’m currently focusing on **ArcGIS (Advanced), FME desktop software, JOSM tool, Data Visualization with Power BI/Tableau, YOLO, Tensor flow, Keras (for Satellite Image Processing), Spatial Data Science With Python & SQL, Google Earth Engine**
+- 🌱 I’m currently focusing on **ArcGIS Pro & ArcGIS Online, FME Desktop & Server, Data Visualization, Image Processing, Spatial Data Science With Python & SQL, Google Earth Engine**
 
 - 🤝 I’m looking for help with **Right Career Guidance For My Data Science Journey**
 
