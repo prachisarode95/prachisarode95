@@ -9,26 +9,19 @@
 
 ## Employment
 - [GIS Analyst at Bhuh Pramaan Pvt. Ltd. (Jun 2021 - Apr 2022)](https://www.bhuhpramaan.com/)
+- [Cartographer at NielsenIQ India Private Limited. (July 2024 - Jan 2025)](https://nielseniq.com/global/en/)
 
-## Certifications
+## Latest Certifications
 - [FME Form Basic. (2024)](https://verify.skilljar.com/c/5cvpk3nsgupu)
-- [Going Places with Spatial Analysis. (2024)](https://www.esri.com/training/TrainingRecord/Certificate/prachisarode/64d73e7294a0e87b34be7d5d/-330)
-- [Imagery in Action. (2023)](https://www.esri.com/training/TrainingRecord/Certificate/prachisarode/64d77d6894a0e87b34c114eb/-330)
-- [Enterprise GIS Made Easy. (2023)](https://www.udemy.com/course/enterprise-gis-made-easy/)
-- [Geospatial Analysis. (2021)](https://www.kaggle.com/learn/certification/prachisarode/geospatial-analysis)
-- [Web GIS development. (2020)](https://www.udemy.com/certificate/UC-4daf6dfd-9162-48b7-bed1-c666a6db4978/)
-- [Basics of Geocomputation & GeoWeb Services. (2020)](https://eclass.iirs.gov.in/offline-session)
 
 ## About Me
-I have a Master's in Technology specializing in Geoinformatics from Madras University. My work involves handling spatial data, using GIS software, cloud-based tools, and programming languages like Python, SQL, and JavaScript for data integration, analysis, and visualization.
+I hold a Master's degree in Technology with a specialization in Geoinformatics from Madras University. My work involves managing spatial data and utilizing GIS software, cloud-based tools, and programming languages such as Python, SQL, and JavaScript for data integration, analysis, and visualization, with a focus on spatial data science technologies.
 
-<!-- - 🔭 I’m currently working on **Spatial Data Science projects** -->
+<!-- - 🔭 I’m currently working on -->
 
-- 🌱 I’m currently focusing on **ArcGIS Pro & ArcGIS Online, FME Desktop & Server, Data Visualization, Image Processing, Spatial Data Science With Python & SQL, Google Earth Engine**
+- 🌱 Learning **ArcGIS Pro & ArcGIS Online, FME Desktop & Server, Spatial Data Analytics With Open-Source Software & Cloud Computing Tools**
 
-- 🤝 I’m looking for help with **Right Career Guidance For My Data Science Journey**
-
-- 👨‍💻 My previous projects are available at [https://prachisarode95.github.io/portfolio/](https://prachisarode95.github.io/portfolio/) (under development)
+- 🤝 Looking for help with **Right Career Guidance For My Data Science Journey**
 
 - 📝 I have blogs on [https://prachisarode.medium.com/](https://prachisarode.medium.com/)
 
@@ -44,7 +37,10 @@ I have a Master's in Technology specializing in Geoinformatics from Madras Unive
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left">  
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachisarode95&show_icons=true&locale=en&layout=compact" alt="prachisarode95" /></p>
 
