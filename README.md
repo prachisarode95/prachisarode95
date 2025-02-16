@@ -12,13 +12,13 @@
 - [Cartographer at NielsenIQ India Private Limited. (July 2024 - Jan 2025)](https://nielseniq.com/global/en/)
 
 ## About Me
-I hold a Master's degree in Technology with a specialization in Geoinformatics from Madras University. My work involves managing spatial data and utilizing GIS software, cloud-based tools, and programming languages such as Python, SQL, and JavaScript for data integration, analysis, and visualization, with a focus on spatial data science technologies.
+I hold a Master's degree in Technology specializing in Geoinformatics from Madras University. My work involves managing spatial data and utilizing GIS software, cloud-based tools, and programming languages such as Python, SQL, and JavaScript for data integration, analysis, and visualization, focusing on spatial data science technologies.
 
 <!-- - 🔭 I’m currently working on -->
 
-- 🌱 Learning **ArcGIS Pro & ArcGIS Online, FME Desktop & Server, Spatial Data Analytics With Open-Source Software & Cloud Computing Tools**
+- 🌱 Learning **ArcGIS Products, FME Tools, Geospatial Analytics with Open-Source Software & Cloud Computing Tools**
 
-- 🤝 Looking for help with **Right Career Guidance For My Data Science Journey**
+- 🤝 Looking for help with **Right Career Guidance For My Spatial Data Science Journey**
 
 - 📝 I have blogs on [https://prachisarode.medium.com/](https://prachisarode.medium.com/)
 
