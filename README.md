@@ -1,7 +1,7 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/prachisarode95/prachisarode95/assets/60979131/a9e94a2c-5440-48eb-a219-81f8ff350361)
 
 <h1 align="center">Hi 👋, I'm Prachi Sarode</h1>
-<h3 align="center">"Obsessed with Maps, Driven by Data: A True Spatial Science Enthusiast!"</h3>
+<h3 align="center">"Connecting Places, Automating Processes: Geospatial Data Integration Enthusiast"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
 
@@ -12,7 +12,7 @@
 - [Cartographer at NielsenIQ India Private Limited. (July 2024 - Jan 2025)](https://nielseniq.com/global/en/)
 
 ## About Me
-I hold a Master's degree in Technology specializing in Geoinformatics from Madras University. My work involves managing spatial data and utilizing GIS software, cloud-based tools, and programming languages such as Python, SQL, and JavaScript for data integration, analysis, and visualization, focusing on spatial data science technologies.
+I hold a Master's degree in Technology, specializing in Geoinformatics from Madras University. My work involves managing spatial data and utilizing GIS software, cloud-based tools, and programming languages such as Python, SQL, and JavaScript for data integration, analysis, and visualization, focusing on spatial data science technologies.
 
 <!-- - 🔭 I’m currently working on -->
 
