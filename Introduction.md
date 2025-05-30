@@ -12,15 +12,23 @@
 - [Cartographer at NielsenIQ India Private Limited. (July 2024 - Jan 2025)](https://nielseniq.com/global/en/)
 
 ## About Me
-I hold a Master's degree in Technology, specializing in Geoinformatics from Madras University. My work involves managing spatial data and utilizing GIS software, cloud-based tools, and programming languages such as Python, SQL, and JavaScript for data integration, analysis, and visualization, focusing on spatial data science technologies.
+I hold a Master’s degree in Geoinformatics from the University of Madras, with expertise in managing spatial data and applying GIS software, cloud-based platforms, and programming tools like Python, SQL, and JavaScript. My work focuses on integrating, analyzing, and visualizing geospatial data to drive insights in spatial data science. With over 1.5 years of experience as a Remote Sensing and GIS Analyst, I specialize in the intersection of Earth observation, machine learning, and geospatial intelligence.
 
-<!-- - 🔭 I’m currently working on -->
+<!-- 🛠️ Currently working on: -->
+- Crop type classification using Sentinel-2 and Random Forest  
+- Green space accessibility and UHI mapping in urban zones
+  
+<!-- 🔍 I specialize in: -->
+- Satellite image processing with Google Earth Engine and Python  
+- GeoAI workflows for agriculture and environmental monitoring  
+- Spatial ML models for land cover classification, UHI detection & more  
+- Automating GIS tasks with QGIS, PostGIS, and open-source tools  
 
-- 🌱 Learning **ArcGIS Products, FME Tools, Geospatial Analytics with Open-Source Software & Cloud Computing Tools**
+- 🌱 Passionate about learning **Geospatial Analytics with Open-Source Software & Cloud Computing Tools, ESRI & FME Tools**
 
 - 🤝 Looking for help with **Right Career Guidance For My Spatial Data Science Journey**
 
-- 📝 I have blogs on [https://prachisarode.medium.com/](https://prachisarode.medium.com/)
+- 📝 I have blogs on [Medium](https://prachisarode.medium.com/)
 
 - 📫 Email me **prachisarode95@gmail.com**
 
