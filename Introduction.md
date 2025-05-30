@@ -7,39 +7,39 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachisarode95" alt="prachisarode95" /></a> </p>
 
-## Employment
-- [GIS Analyst at Bhuh Pramaan Pvt. Ltd. (Jun 2021 - Apr 2022)](https://www.bhuhpramaan.com/)
-- [Cartographer at NielsenIQ India Private Limited. (July 2024 - Jan 2025)](https://nielseniq.com/global/en/)
+## 🚀 Current Focus
+I'm building intelligent geospatial solutions at the intersection of Earth observation, GeoAI, and cloud computing. My current projects emphasize actionable insights in agriculture and climate-resilient urban planning.
 
-## About Me
-I hold a Master’s degree in Geoinformatics from the University of Madras, with expertise in managing spatial data and applying GIS software, cloud-based platforms, and programming tools like Python, SQL, and JavaScript. My work focuses on integrating, analyzing, and visualizing geospatial data to drive insights in spatial data science. With over 1.5 years of experience as a Remote Sensing and GIS Analyst, I specialize in the intersection of Earth observation, machine learning, and geospatial intelligence.
+- 🌾 **Crop Type Classification** using Sentinel-2 and Random Forest (GeoAI for Smart Agriculture) - Ongoing
+- 🌆 **Urban Heat Island Detection & Green Space Accessibility** for climate-resilient cities - Ongoing
+- 🧠 Building **GeoAI-based Object Detection** apps using SAMGeo and Streamlit (Planned)
+- 🌐 Visualizing geospatial outcomes with **Kepler.gl, Leafmap, and Streamlit** (Planned)
 
-<!-- 🛠️ Currently working on: -->
-- Crop type classification using Sentinel-2 and Random Forest  
-- Green space accessibility and UHI mapping in urban zones
-  
-<!-- 🔍 I specialize in: -->
-- Satellite image processing with Google Earth Engine and Python  
-- GeoAI workflows for agriculture and environmental monitoring  
-- Spatial ML models for land cover classification, UHI detection & more  
-- Automating GIS tasks with QGIS, PostGIS, and open-source tools  
+## 👩‍💻 Skills & Tools
+- **Remote Sensing & GIS**: Google Earth Engine, Sentinel-2, Landsat, MODIS
+- **GeoAI & ML**: scikit-learn, SAMGeo, geemap, rasterio, numpy, pandas
+- **GIS Automation**: FME, QGIS, PostGIS, Python
+- **Cloud & APIs**: GEE Python API, Streamlit, GitHub
+- **Visualization**: Kepler.gl, Leafmap, Folium, Matplotlib, Plotly
 
-- 🌱 Passionate about learning **Geospatial Analytics with Open-Source Software & Cloud Computing Tools, ESRI & FME Tools**
+## 🎯 Career Goal
+To contribute to impactful geospatial projects in environmental monitoring, smart agriculture, and urban planning using open-source tools, spatial data science, and intelligent automation. I'm actively exploring opportunities at companies focusing on sustainable development goals.
 
-- 🤝 Looking for help with **Right Career Guidance For My Spatial Data Science Journey**
+## 💡 Learning & Upskilling
+- 📚 Learning **FME Form Basic + Advanced Courses**
+- 🎯 Working on **FME Projects** to build up skills on Data Integration & Automation
+- ✅ Planning & Executing **Cloud-based Remote Sensing Projects** & exploring **GeoAI workflows** for advanced analysis approach.
 
-- 📝 I have blogs on [Medium](https://prachisarode.medium.com/)
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/prachisarode95)
+- 📊 [Kaggle](https://kaggle.com/prachisarode)
+- ✍️ [Medium](https://medium.com/@prachisarode)
+- 📧 Email: **prachisarode95@gmail.com**
 
-- 📫 Email me **prachisarode95@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://dev.to/@prachisarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@prachisarode" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/prachisarode95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisarode95" height="30" width="40" /></a>
-<a href="https://kaggle.com/prachisarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prachisarode" height="30" width="40" /></a>
-<a href="https://medium.com/@prachisarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prachisarode" height="30" width="40" /></a>
-<!-- <a href="https://auth.geeksforgeeks.org/user/prachisarode95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prachisarode95" height="30" width="40" /></a> -->
-</p>
+## 💼 Experience
+- [GIS Analyst – Bhuh Pramaan Pvt. Ltd. (Jun 2021 - Apr 2022)](https://www.bhuhpramaan.com/)
+- [Cartographer – NielsenIQ India (Jul 2024 - Jan 2025)](https://nielseniq.com/global/en/)
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachisarode95&show_icons=true&locale=en&layout=compact" alt="prachisarode95" /></p>
 
