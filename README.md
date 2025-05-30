@@ -11,9 +11,9 @@
 I'm building intelligent geospatial solutions at the intersection of Earth observation, GeoAI, and cloud computing. My current projects emphasize actionable insights in agriculture and climate-resilient urban planning.
 
 - 🌾 **Crop Type Classification** using Sentinel-2 and Random Forest (GeoAI for Smart Agriculture) - Ongoing
-- 🌆 **Urban Heat Island Detection & Green Space Accessibility** for climate-resilient cities - Ongoing
-- 🧠 Building **GeoAI-based Object Detection** apps using SAMGeo and Streamlit (Planned)
-- 🌐 Visualizing geospatial outcomes with **Kepler.gl, Leafmap, and Streamlit** (Planned)
+- 🌆 **Urban Heat Island Detection & Cooling Infrastructure Mapping** (GeoAI for Urban Planning) - Ongoing
+- 🧠 Building **GeoAI-based Object Detection** app using SAMGeo and Streamlit (Planned)
+- 🌐 Visualizing geospatial outcomes with **Kepler.gl, Leafmap, Streamlit & more** (Planned)
 
 ## 👩‍💻 Skills & Tools
 - **Remote Sensing & GIS**: Google Earth Engine, Sentinel-2, Landsat, MODIS
