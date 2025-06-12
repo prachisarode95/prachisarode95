@@ -8,37 +8,37 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachisarode95" alt="prachisarode95" /></a> </p>
 
 ## 🚀 Current Focus
-I'm building intelligent geospatial solutions at the intersection of Earth observation, GeoAI, and cloud computing. My current projects emphasize actionable insights in agriculture and climate-resilient urban planning.
+I'm building intelligent geospatial solutions at the intersection of Earth observation, GeoAI, and Cloud Computing. My current projects emphasize actionable insights in agriculture and climate-resilient urban planning.
 
-- 🌾 **Crop Type Classification** using Sentinel-2 and Random Forest (GeoAI for Smart Agriculture) - Ongoing
-- 🌆 **Urban Heat Island Detection & Cooling Infrastructure Mapping** (GeoAI for Urban Planning) - Ongoing
-- 🧠 Building **GeoAI-based Object Detection** app using SAMGeo and Streamlit (Planned)
-- 🌐 Visualizing geospatial outcomes with **Kepler.gl, Leafmap, Streamlit & more** (Planned)
+- 🌆 **Urban Heat Island Detection & Cooling Infrastructure Mapping** (GeoAI for Urban Planning) – Completed  
+- 🛰 **Agricultural Field Boundary Detection** using Sentinel-2 & Deep Learning – In progress  
+- ⚙️ **FME + Python for Spatial Automation** – Planned  
+- 🌐 Visualizing results via **Streamlit, Leafmap, and Hugging Face Apps** - Planned
 
 ## 👩‍💻 Skills & Tools
-- **Remote Sensing & GIS**: Google Earth Engine, Sentinel-2, Landsat, MODIS
-- **GeoAI & ML**: scikit-learn, SAMGeo, geemap, rasterio, numpy, pandas
-- **GIS Automation**: FME, QGIS, PostGIS, Python
-- **Cloud & APIs**: GEE Python API, Streamlit, GitHub
+- **Remote Sensing + GIS + GeoAI & ML**: Google Earth Engine, scikit-learn, geemap, rasterio, numpy, pandas, etc
+- **GIS Automation**: FME (Basic + Advanced), PostGIS, QGIS, Python  
+- **Cloud & APIs**: GEE Python API, Streamlit, GitHub Actions, Hugging Face Spaces  
 - **Visualization**: Kepler.gl, Leafmap, Folium, Matplotlib, Plotly
 
 ## 🎯 Career Goal
-To contribute to impactful geospatial projects in environmental monitoring, smart agriculture, and urban planning using open-source tools, spatial data science, and intelligent automation. I'm actively exploring opportunities at companies focusing on sustainable development goals.
+To contribute to impactful geospatial projects in environmental monitoring, smart agriculture, and urban planning using open-source tools, spatial data science, and intelligent automation. I'm actively seeking full-time roles in GIS data engineering, GeoAI, and Earth Observation analytics.
 
 ## 💡 Learning & Upskilling
-- 📚 Learning **FME Form Basic + Advanced Courses**
-- 🎯 Working on **FME Projects** to build up skills on Data Integration & Automation
-- ✅ Planning & Executing **Cloud-based Remote Sensing Projects** & exploring **GeoAI workflows** for advanced analysis approach.
+- 🧪 Completing **FME + Python Spatial Automation Projects**  
+- 🌍 Executing **Cloud GIS Deployments with Streamlit + PostGIS**  
+- 📦 Learning **CI/CD for Geospatial Apps with Docker & GitHub Actions**  
+- 📚 Writing Medium blogs to share my project workflows
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/prachisarode95)
-- 📊 [Kaggle](https://kaggle.com/prachisarode)
-- ✍️ [Medium](https://medium.com/@prachisarode)
+- 🔗 [LinkedIn](https://linkedin.com/in/prachisarode95)    
+- ✍️ [Medium](https://medium.com/@prachisarode)  
 - 📧 Email: **prachisarode95@gmail.com**
 
 ## 💼 Experience
-- [GIS Analyst – Bhuh Pramaan Pvt. Ltd. (Jun 2021 - Apr 2022)](https://www.bhuhpramaan.com/)
-- [Cartographer – NielsenIQ India (Jul 2024 - Jan 2025)](https://nielseniq.com/global/en/)
+- [GIS Analyst – Bhuh Pramaan Pvt. Ltd. (Jun 2021 – Apr 2022)](https://www.bhuhpramaan.com/)  
+- [Cartographer – NielsenIQ India (Jul 2024 – Jan 2025)](https://nielseniq.com/global/en/)
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachisarode95&show_icons=true&locale=en&layout=compact" alt="prachisarode95" /></p>
@@ -46,4 +46,3 @@ To contribute to impactful geospatial projects in environmental monitoring, smar
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachisarode95&show_icons=true&locale=en" alt="prachisarode95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachisarode95&" alt="prachisarode95" /></p>
-
