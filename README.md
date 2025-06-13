@@ -15,10 +15,10 @@ I am developing geospatial solutions that integrate Desktop and Cloud GIS tools.
 - Visualizing results via **Streamlit, Leafmap, and Hugging Face Apps** - Planned
 
 ## 👩‍💻 Skills & Tools
-- **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, geemap, rasterio, numpy, pandas, etc
+- **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, rasterio, numpy, pandas, etc
 - **GIS Automation**: FME (Basic + Advanced), PostGIS, QGIS, ArcGIS, Python  
 - **Cloud & APIs**: GEE Python API, Streamlit  
-- **Visualization**: Leafmap, Matplotlib, Plotly
+- **Visualization**: Geemap, Leafmap, Matplotlib
 
 ## 🎯 Career Goal
 To contribute to impactful geospatial projects by using spatial data science and intelligent automation tools. I'm actively seeking full-time roles in GIS data automation engineering.
