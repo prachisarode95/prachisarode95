@@ -21,11 +21,11 @@ I am developing geospatial solutions that integrate Desktop and Cloud GIS tools.
 - **Visualization**: Leafmap, Folium, Matplotlib, Plotly
 
 ## 🎯 Career Goal
-To contribute to impactful geospatial projects in environmental monitoring, smart agriculture, and urban planning using open-source tools, spatial data science, and intelligent automation. I'm actively seeking full-time roles in GIS data engineering, GeoAI, and Earth Observation analytics.
+To contribute to impactful geospatial projects by using spatial data science and intelligent automation tools. I'm actively seeking full-time roles in GIS data automation engineering.
 
 ## 💡 Learning & Upskilling
-- 🧪 Executing **Spatial Data Automation Projects**   
-- 📦 Planning to learn **Cloud GIS Deployments with Streamlit Cloud & CI/CD for Geospatial Apps with Docker & GitHub Actions**  
+- 🧪 Executing **Spatial Data Automation Project**   
+- 📦 Planning to learn **Cloud GIS Deployments**  
 - 📚 Writing Medium blogs to share my project workflows
 
 ## 📫 Let's Connect
