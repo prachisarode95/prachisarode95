@@ -8,26 +8,24 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachisarode95" alt="prachisarode95" /></a> </p>
 
 ## 🚀 Current Focus
-I'm building intelligent geospatial solutions at the intersection of Earth observation, GeoAI, and Cloud Computing. My current projects emphasize actionable insights in agriculture and climate-resilient urban planning.
+I'm building intelligent geospatial solutions at the intersection of Earth observation, GeoAI, and Cloud Computing. My current projects emphasize actionable insights in various domains.
 
-- 🌆 **Urban Heat Island Detection & Cooling Infrastructure Mapping** (GeoAI for Urban Planning) – Completed  
-- 🛰 **Agricultural Field Boundary Detection** using Sentinel-2 & Deep Learning – In progress  
-- ⚙️ **FME + Python for Spatial Automation** – Planned  
-- 🌐 Visualizing results via **Streamlit, Leafmap, and Hugging Face Apps** - Planned
+- **Spatial Data Automation** – In Progress
+- **Urban Heat Island Detection & Cooling Infrastructure Mapping** (Machine Learning for Urban Planning) – Completed  
+- Visualizing results via **Streamlit, Leafmap, and Hugging Face Apps** - Planned
 
 ## 👩‍💻 Skills & Tools
 - **Remote Sensing + GIS + GeoAI & ML**: Google Earth Engine, scikit-learn, geemap, rasterio, numpy, pandas, etc
-- **GIS Automation**: FME (Basic + Advanced), PostGIS, QGIS, Python  
+- **GIS Automation**: FME (Basic + Advanced), PostGIS, QGIS, ArcGIS, Python  
 - **Cloud & APIs**: GEE Python API, Streamlit, GitHub Actions, Hugging Face Spaces  
-- **Visualization**: Kepler.gl, Leafmap, Folium, Matplotlib, Plotly
+- **Visualization**: Leafmap, Folium, Matplotlib, Plotly
 
 ## 🎯 Career Goal
 To contribute to impactful geospatial projects in environmental monitoring, smart agriculture, and urban planning using open-source tools, spatial data science, and intelligent automation. I'm actively seeking full-time roles in GIS data engineering, GeoAI, and Earth Observation analytics.
 
 ## 💡 Learning & Upskilling
-- 🧪 Completing **FME + Python Spatial Automation Projects**  
-- 🌍 Executing **Cloud GIS Deployments with Streamlit + PostGIS**  
-- 📦 Learning **CI/CD for Geospatial Apps with Docker & GitHub Actions**  
+- 🧪 Executing **Spatial Data Automation Projects**   
+- 📦 Planning to learn **Cloud GIS Deployments with Streamlit Cloud & CI/CD for Geospatial Apps with Docker & GitHub Actions**  
 - 📚 Writing Medium blogs to share my project workflows
 
 ## 📫 Let's Connect
