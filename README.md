@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachisarode95" alt="prachisarode95" /></a> </p>
 
 ## 🚀 Current Focus
-I'm building intelligent geospatial solutions at the intersection of Earth observation, GeoAI, and Cloud Computing. My current projects emphasize actionable insights in various domains.
+I am developing geospatial solutions that integrate Desktop and Cloud GIS tools.
 
-- **Spatial Data Automation** – In Progress
+- **Spatial Data Automation Project** – In Progress
 - **Urban Heat Island Detection & Cooling Infrastructure Mapping** (Machine Learning for Urban Planning) – Completed  
 - Visualizing results via **Streamlit, Leafmap, and Hugging Face Apps** - Planned
 
