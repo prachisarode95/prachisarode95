@@ -15,7 +15,7 @@ I'm building intelligent geospatial solutions at the intersection of Earth obser
 - Visualizing results via **Streamlit, Leafmap, and Hugging Face Apps** - Planned
 
 ## 👩‍💻 Skills & Tools
-- **Remote Sensing + GIS + GeoAI & ML**: Google Earth Engine, scikit-learn, geemap, rasterio, numpy, pandas, etc
+- **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, geemap, rasterio, numpy, pandas, etc
 - **GIS Automation**: FME (Basic + Advanced), PostGIS, QGIS, ArcGIS, Python  
 - **Cloud & APIs**: GEE Python API, Streamlit, GitHub Actions, Hugging Face Spaces  
 - **Visualization**: Leafmap, Folium, Matplotlib, Plotly
