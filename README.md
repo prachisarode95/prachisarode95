@@ -10,9 +10,9 @@
 ## 🚀 Current Focus
 I am developing geospatial solutions that integrate Desktop and Cloud GIS tools.
 
-- **Spatial Data Automation Project** – In Progress
+- **Spatial Data Automation Projects** – In Progress
 - **Urban Heat Island Detection & Cooling Infrastructure Mapping** (Machine Learning for Urban Planning) – Completed  
-- Visualizing results via **Streamlit, Leafmap, and Hugging Face Apps** - Planned
+- Visualizing results via **integrating AI/ML and Streamlit-based deployment into geospatial workflows** - Planned
 
 ## 👩‍💻 Skills & Tools
 - **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, rasterio, numpy, pandas, etc
