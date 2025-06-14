@@ -7,26 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachisarode95" alt="prachisarode95" /></a> </p>
 
-## 🚀 Current Focus
-I am developing geospatial solutions that integrate Desktop and Cloud GIS tools.
+## 🎯 Career Goal
+To contribute to impactful geospatial projects by using spatial data science and intelligent automation tools. I'm actively seeking full-time roles in GIS data automation engineering.
 
-- **Spatial Data Automation Projects** – In Progress
-- **Urban Heat Island Detection & Cooling Infrastructure Mapping** (Machine Learning for Urban Planning) – Completed  
-- Visualizing results via **integrating AI/ML and Streamlit-based deployment into geospatial workflows** - Planned
+## 🚀 Current Learning & Upskilling
+- 🧪 Executing **Spatial Data Automation Projects**   
+- 📦 Planning to learn **Cloud GIS Deployments**  
+- 📚 Writing Medium blogs to share my project workflows
 
 ## 👩‍💻 Skills & Tools
 - **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, rasterio, numpy, pandas, etc
 - **GIS Automation**: FME (Basic + Advanced), PostGIS, QGIS, ArcGIS, Python  
 - **Cloud & APIs**: GEE Python API, Streamlit  
 - **Visualization**: Geemap, Leafmap, Matplotlib
-
-## 🎯 Career Goal
-To contribute to impactful geospatial projects by using spatial data science and intelligent automation tools. I'm actively seeking full-time roles in GIS data automation engineering.
-
-## 💡 Learning & Upskilling
-- 🧪 Executing **Spatial Data Automation Project**   
-- 📦 Planning to learn **Cloud GIS Deployments**  
-- 📚 Writing Medium blogs to share my project workflows
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/prachisarode95)    
