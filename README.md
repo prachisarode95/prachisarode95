@@ -8,18 +8,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachisarode95" alt="prachisarode95" /></a> </p>
 
 ## 🎯 Career Goal
-To contribute to impactful geospatial projects by using spatial data science and intelligent automation tools. I'm actively seeking full-time roles in GIS data automation engineering.
+To contribute to impactful geospatial projects by using spatial data science and intelligent automation tools. I'm actively seeking full-time roles in **GIS data automation engineering** where I can apply my skills in **FME tools, ArcGIS tools, QGIS with Python-based workflows**.
 
 ## 🚀 Current Learning & Upskilling
-- 🧪 Executing **Spatial Data Automation Projects**   
-- 📦 Planning to learn **Cloud GIS Deployments**  
-- 📚 Writing Medium blogs to share my project workflows
+- 🧪 Executing **Spatial Data Automation Projects** with real-world applications  
+- ✍️ Writing Medium blogs to share technical workflows and geospatial insights  
+- 📜 Strengthened my expertise through:
+  - 🎓 **FME Training Programs** (Basic + Advanced + Flow Authoring)  
+  - 🌍 **ArcGIS MOOC Courses** (ArcGIS Pro, ArcGIS Online, Dashboards, StoryMaps, Experience Builder, etc)
 
 ## 👩‍💻 Skills & Tools
-- **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, rasterio, numpy, pandas, etc
-- **GIS Automation**: FME (Basic + Advanced), PostGIS, QGIS, ArcGIS, Python  
-- **Cloud & APIs**: GEE Python API, Streamlit  
-- **Visualization**: Geemap, Leafmap, Matplotlib
+- **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, rasterio, numpy, pandas  
+- **GIS Automation & Integration**: FME (Form + Flow), PostgreSQL, QGIS, ArcGIS Online/Desktop, Python, SQL  
+- **Visualization**: Geemap, Leafmap, Matplotlib, ArcGIS Dashboards & StoryMaps  
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/prachisarode95)    
