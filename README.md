@@ -15,12 +15,12 @@ To contribute to impactful geospatial projects by using spatial data science and
 - ✍️ Writing Medium blogs to share technical workflows and geospatial insights  
 - 📜 Strengthened my expertise through:
   - 🎓 **FME Training Programs** (Basic + Advanced + Flow Authoring)  
-  - 🌍 **ArcGIS MOOC Courses** (ArcGIS Pro, ArcGIS Online, Dashboards, StoryMaps, Experience Builder, etc)
+  - 🌍 **ArcGIS MOOC Courses** (ArcGIS Pro, ArcGIS Online)
 
 ## 👩‍💻 Skills & Tools
 - **Remote Sensing + GIS + ML**: Google Earth Engine, scikit-learn, rasterio, numpy, pandas  
 - **GIS Automation & Integration**: FME (Form + Flow), PostgreSQL, QGIS, ArcGIS Online/Desktop, Python, SQL  
-- **Visualization**: Geemap, Leafmap, Matplotlib, ArcGIS Dashboards & StoryMaps  
+- **Visualization**: Geemap, Leafmap, Matplotlib  
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/prachisarode95)    
