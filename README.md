@@ -11,14 +11,10 @@
 - Learning & Executing **Spatial Data Science Projects** with real-world applications  
 - Writing Medium blogs to share technical workflows and geospatial insights  
 - Strengthening my expertise through:
-  - **Forage Virtual Internship Programs**
+  - **Digital Image Processing & Spatial Data Analysis**
+  - **Data Integration, Automation & Data Visualization**
   - **FME Training Courses**  
-  - **ESRI MOOC Courses**
-  - **Data Integration & Automation**  
-  - **Data Visualization**
-  - **Remote Sensing + GIS + GeoAI**  
   
-
 ## Let's Connect
 - [LinkedIn Profile](https://linkedin.com/in/prachisarode95)    
 - [Medium Profile](https://medium.com/@prachisarode)
