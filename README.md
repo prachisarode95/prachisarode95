@@ -1,6 +1,5 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/prachisarode95/prachisarode95/assets/60979131/a9e94a2c-5440-48eb-a219-81f8ff350361)
 
-<h1 align="center">Hi 👋, I'm Prachi Sarode</h1>
 <h3 align="center">Connecting Places, Integrating Data, Automating Processes!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
