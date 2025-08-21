@@ -9,13 +9,11 @@
 - Writing Medium blogs to share technical workflows and geospatial insights  
 - Strengthening my expertise through:
   - **Digital Image Processing & Spatial Data Analysis**
-  - **Data Integration, Automation & Data Visualization**
-  - **FME Training Courses**  
+  - **Data Annotation, Labeling, Integration & Automation**
   
 ## Let's Connect
 - [LinkedIn Profile](https://linkedin.com/in/prachisarode95)    
-- [Medium Profile](https://medium.com/@prachisarode)
-- [Freelancing Profile](https://www.teacheron.com/tutor/2zb7) 
+- [Medium Profile](https://medium.com/@prachisarode) 
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachisarode95&show_icons=true&locale=en&layout=compact" alt="prachisarode95" /></p>
