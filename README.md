@@ -8,8 +8,7 @@
 - Learning & Executing **Spatial Data Science Projects** with real-world applications  
 - Writing Medium blogs to share technical workflows and geospatial insights  
 - Strengthening my expertise through:
-  - **Digital Image Processing & Spatial Data Analysis**
-  - **Data Annotation, Labeling, Integration & Automation**
+  - **Digital Image Processing, Spatial Data Annotation, Integration & Automation**
   
 ## Let's Connect
 - [LinkedIn Profile](https://linkedin.com/in/prachisarode95)    
