@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
 
-## Current Learning & Upskilling
-- Learning & Executing **Spatial Data Science Projects with real-world applications**  
-- Writing **Medium blogs to share technical workflows and geospatial insights**  
-- Strengthening my expertise through:
-  - **Geospatial Data Integration, Processing, Automation & Analysis**
+## I am upskilling through:
+- Building **Data Automation Projects with ArcGIS Pro, FME, and QGIS.**  
+- Writing **Medium blogs** to share technical workflows and geospatial insights. 
   
 ## Let's Connect
 - [LinkedIn Profile](https://linkedin.com/in/prachisarode95)    
