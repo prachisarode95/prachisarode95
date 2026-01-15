@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachisarode95&label=Profile%20views&color=0e75b6&style=flat" alt="prachisarode95" /> </p>
 
 ## I am upskilling through:
-- Building **Data Automation Projects with ArcGIS Pro, FME, and QGIS.**  
+- Building **Geospatial Automation Projects with ArcGIS Pro, FME.**  
 - Writing **Medium blogs** to share technical workflows and geospatial insights. 
   
 ## Let's Connect
